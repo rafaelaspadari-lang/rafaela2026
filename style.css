@@ -15,8 +15,8 @@ body {
 
 /* Estilo do Cabeçalho */
 header {
-    background-color: #4A90E2; /* Cor azul moderna */
-    color: white;
+    background-color: #966de0; /* Cor azul moderna */
+    color: rgb(66, 17, 129);
     text-align: center;
     padding: 40px 20px;
 }
